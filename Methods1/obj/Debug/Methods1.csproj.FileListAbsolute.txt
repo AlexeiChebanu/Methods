@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Self-education\Beetroot\Methods1\Methods1\bin\Debug\Methods1.exe.config
+C:\Users\User\Desktop\Self-education\Beetroot\Methods1\Methods1\bin\Debug\Methods1.exe
+C:\Users\User\Desktop\Self-education\Beetroot\Methods1\Methods1\bin\Debug\Methods1.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\Methods1\Methods1\obj\Debug\Methods1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Methods1\Methods1\obj\Debug\Methods1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Methods1\Methods1\obj\Debug\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Methods1\Methods1\obj\Debug\Methods1.exe
+C:\Users\User\Desktop\Self-education\Beetroot\Methods1\Methods1\obj\Debug\Methods1.pdb
