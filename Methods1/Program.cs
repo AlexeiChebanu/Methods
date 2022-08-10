@@ -83,7 +83,7 @@ namespace Methods1
 
             MaxMin(out MinValue1, out MaxValue1, e, f, g, h);
             Console.WriteLine($"MinValue is {MinValue1}; \tMaxValue is {MaxValue1}\nAmong these nums {e},\t {f},\t {g},\t {h}");
-
+//too many whitespaces
 
 
 
@@ -95,7 +95,7 @@ namespace Methods1
                 Console.WriteLine($"The sum of those 2 nums({a}, {b}) is Even");
             else
                 Console.WriteLine($"The sum of those 2 nums({a}, {b}) is Odd");
-
+//too many whitespaces
 
 
 
@@ -115,3 +115,4 @@ namespace Methods1
         }
     }
 }
+//checked
